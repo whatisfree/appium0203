@@ -1,0 +1,35 @@
+2021-02-03 17:02:00,084 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:117] - Could not connect to port 4723 on host localhost
+2021-02-03 17:02:00,084 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:136] - Could not get IP address for host: localhost
+2021-02-03 17:02:04,104 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:752] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020A8ED1F4E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+2021-02-03 17:02:08,113 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:752] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020A8ED1F6D8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+2021-02-03 17:15:54,583 INFO [root] [baseApi.py (base_find_element:49] - had find element帐号密码登录,by xpath via value//*[@text='帐号密码登录']
+2021-02-03 17:15:55,650 INFO [root] [baseApi.py (base_find_element:49] - had find element请输入手机号/邮箱,by xpath via value//*[@text='请输入手机号/邮箱']
+2021-02-03 17:15:57,261 INFO [root] [baseApi.py (base_find_element:30] - had find element,by id via valuecom.douban.frodo:id/input_password
+2021-02-03 17:15:58,433 INFO [root] [baseApi.py (base_find_element:30] - had find element登录,by id via valuecom.douban.frodo:id/sign_in_douban
+2021-02-03 17:16:00,910 INFO [root] [baseApi.py (base_find_element:49] - had find element我的,by xpath via value//android.widget.TextView[@text='我的']
+2021-02-03 17:20:21,526 INFO [root] [baseApi.py (base_find_element:49] - had find element帐号密码登录,by xpath via value//*[@text='帐号密码登录']
+2021-02-03 17:20:22,533 INFO [root] [baseApi.py (base_find_element:49] - had find element请输入手机号/邮箱,by xpath via value//*[@text='请输入手机号/邮箱']
+2021-02-03 17:20:24,166 INFO [root] [baseApi.py (base_find_element:30] - had find element,by id via valuecom.douban.frodo:id/input_password
+2021-02-03 17:20:25,329 INFO [root] [baseApi.py (base_find_element:30] - had find element登录,by id via valuecom.douban.frodo:id/sign_in_douban
+2021-02-03 17:20:28,227 INFO [root] [baseApi.py (base_find_element:49] - had find element我的,by xpath via value//android.widget.TextView[@text='我的']
+2021-02-03 17:27:29,681 INFO [root] [baseApi.py (base_find_element:49] - had find element帐号密码登录,by xpath via value//*[@text='帐号密码登录']
+2021-02-03 17:27:30,672 INFO [root] [baseApi.py (base_find_element:49] - had find element请输入手机号/邮箱,by xpath via value//*[@text='请输入手机号/邮箱']
+2021-02-03 17:27:32,302 INFO [root] [baseApi.py (base_find_element:30] - had find element,by id via valuecom.douban.frodo:id/input_password
+2021-02-03 17:27:33,485 INFO [root] [baseApi.py (base_find_element:30] - had find element登录,by id via valuecom.douban.frodo:id/sign_in_douban
+2021-02-03 17:27:35,067 INFO [root] [baseApi.py (base_find_element:49] - had find element我的,by xpath via value//android.widget.TextView[@text='我的']
+2021-02-03 17:35:29,777 INFO [root] [baseApi.py (base_find_element:49] - had find element帐号密码登录,by xpath via value//*[@text='帐号密码登录']
+2021-02-03 17:35:30,741 INFO [root] [baseApi.py (base_find_element:49] - had find element请输入手机号/邮箱,by xpath via value//*[@text='请输入手机号/邮箱']
+2021-02-03 17:35:32,391 INFO [root] [baseApi.py (base_find_element:30] - had find element,by id via valuecom.douban.frodo:id/input_password
+2021-02-03 17:35:33,606 INFO [root] [baseApi.py (base_find_element:30] - had find element登录,by id via valuecom.douban.frodo:id/sign_in_douban
+2021-02-03 17:35:37,187 ERROR [root] [baseApi.py (base_find_element:51] - 定位方式有错误:Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+
+2021-02-03 17:37:25,436 INFO [root] [baseApi.py (base_find_element:49] - had find element帐号密码登录,by xpath via value//*[@text='帐号密码登录']
+2021-02-03 17:37:26,444 INFO [root] [baseApi.py (base_find_element:49] - had find element请输入手机号/邮箱,by xpath via value//*[@text='请输入手机号/邮箱']
+2021-02-03 17:37:28,062 INFO [root] [baseApi.py (base_find_element:30] - had find element,by id via valuecom.douban.frodo:id/input_password
+2021-02-03 17:37:29,222 INFO [root] [baseApi.py (base_find_element:30] - had find element登录,by id via valuecom.douban.frodo:id/sign_in_douban
+2021-02-03 17:37:30,771 INFO [root] [baseApi.py (base_find_element:49] - had find element我的,by xpath via value//android.widget.TextView[@text='我的']
+2021-02-03 17:42:38,345 INFO [root] [baseApi.py (base_find_element:49] - had find element帐号密码登录,by xpath via value//*[@text='帐号密码登录']
+2021-02-03 17:42:39,330 INFO [root] [baseApi.py (base_find_element:49] - had find element请输入手机号/邮箱,by xpath via value//*[@text='请输入手机号/邮箱']
+2021-02-03 17:42:40,979 INFO [root] [baseApi.py (base_find_element:30] - had find element,by id via valuecom.douban.frodo:id/input_password
+2021-02-03 17:42:42,138 INFO [root] [baseApi.py (base_find_element:30] - had find element登录,by id via valuecom.douban.frodo:id/sign_in_douban
+2021-02-03 17:42:45,094 INFO [root] [baseApi.py (base_find_element:49] - had find element我的,by xpath via value//android.widget.TextView[@text='我的']

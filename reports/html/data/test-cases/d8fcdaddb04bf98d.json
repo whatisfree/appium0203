@@ -1,0 +1,114 @@
+{
+  "uid" : "d8fcdaddb04bf98d",
+  "name" : "test_login",
+  "fullName" : "case.test_douban#test_login",
+  "historyId" : "8fd53cc43469d725830b55e7ca1c1c21",
+  "time" : {
+    "start" : 1612347353334,
+    "stop" : 1612347368340,
+    "duration" : 15006
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "getdriver",
+    "time" : {
+      "start" : 1612347337686,
+      "stop" : 1612347353332,
+      "duration" : 15646
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1612347337584,
+      "stop" : 1612347337686,
+      "duration" : 102
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "88139ba68e402761",
+      "name" : "log",
+      "source" : "88139ba68e402761.txt",
+      "type" : "text/plain",
+      "size" : 591
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "getdriver::0",
+    "time" : {
+      "start" : 1612347368341,
+      "stop" : 1612347374922,
+      "duration" : 6581
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_douban"
+  }, {
+    "name" : "host",
+    "value" : "liuzhigang"
+  }, {
+    "name" : "thread",
+    "value" : "5696-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_douban"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8fcdaddb04bf98d.json",
+  "parameterValues" : [ ]
+}
