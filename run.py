@@ -26,6 +26,7 @@ def main():
     # 启动allure服务
     subprocess.call('allure generate ./reports/douban -o ./reports/html/ --clean',shell=True)
     # 等待其他进程
+    os.system('taskkill -F -PID node.exe')
     p.join()
     # 进程退出
     p.terminate()

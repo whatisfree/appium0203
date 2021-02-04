@@ -33,3 +33,8 @@
 2021-02-03 17:42:40,979 INFO [root] [baseApi.py (base_find_element:30] - had find element,by id via valuecom.douban.frodo:id/input_password
 2021-02-03 17:42:42,138 INFO [root] [baseApi.py (base_find_element:30] - had find element登录,by id via valuecom.douban.frodo:id/sign_in_douban
 2021-02-03 17:42:45,094 INFO [root] [baseApi.py (base_find_element:49] - had find element我的,by xpath via value//android.widget.TextView[@text='我的']
+2021-02-03 18:16:00,157 INFO [root] [baseApi.py (base_find_element:49] - had find element帐号密码登录,by xpath via value//*[@text='帐号密码登录']
+2021-02-03 18:16:01,155 INFO [root] [baseApi.py (base_find_element:49] - had find element请输入手机号/邮箱,by xpath via value//*[@text='请输入手机号/邮箱']
+2021-02-03 18:16:02,800 INFO [root] [baseApi.py (base_find_element:30] - had find element,by id via valuecom.douban.frodo:id/input_password
+2021-02-03 18:16:03,956 INFO [root] [baseApi.py (base_find_element:30] - had find element登录,by id via valuecom.douban.frodo:id/sign_in_douban
+2021-02-03 18:16:06,984 INFO [root] [baseApi.py (base_find_element:49] - had find element我的,by xpath via value//android.widget.TextView[@text='我的']
